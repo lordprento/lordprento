@@ -22,7 +22,7 @@ I’m constantly expanding my knowledge in:
 - **UX Design**: Figma, Adobe XD, usability testing
 - **Other**: JavaScript, React, Node.js
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEydWhheWlldXdhZXp0NzRxcXFiYXZ2cm92N3RsZnpseWE1bngzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HuVZ5YS2BTQl0uzZ4l/giphy.gif" width="800" alt="Fernando Alonso Victory" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEydWhheWlldXdhZXp0NzRxcXFiYXZ2cm92N3RsZnpseWE1bngzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HuVZ5YS2BTQl0uzZ4l/giphy.gif" width="600" alt="Fernando Alonso Victory" />
 
 ## 🏎️ Fun Fact
 When I’m not developing, you’ll likely find me analyzing F1 race strategies or diving into the technology behind the fastest cars in the world. Like Alonso, I believe in pushing boundaries and staying passionate about what I do.
