@@ -1,5 +1,3 @@
-# 👋 Hi, I'm [Your Name]!
-
 ## 🚀 About Me
 I’m a **Web3 developer and designer** passionate about leveraging cutting-edge technologies to create meaningful and impactful solutions. My key areas of interest include:
 - **🌐 Web3 Development**: Building decentralized applications (dApps) and tools that empower users in the Web3 ecosystem, with a focus on the **Solana network** for its speed, scalability, and innovation.
@@ -7,7 +5,7 @@ I’m a **Web3 developer and designer** passionate about leveraging cutting-edge
 - **🎨 UX Design**: Designing intuitive, user-centered experiences that simplify complex systems and make technology more accessible.
 - **🏎️ F1 Enthusiast**: A lifelong Formula 1 fan, especially a big admirer of **Fernando Alonso** 🐐. His drive, resilience, and passion inspire me to keep pushing limits.
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Fernando Alonso Driving" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5seG1lcjVvZmhkbm1oZWJ1aDUxMWk3cDBkZ25pYTIzZ2x3dzZuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8F94ADlcSJIvw86evZ/giphy.gif" width="300" alt="Fernando Alonso Driving" />
 
 ### 💻 Current Projects
 I’m currently developing a **memecoin trading tool** to provide crypto traders with real-time analytics and insights. This project is designed with Web3 principles in mind, leveraging the Solana blockchain for seamless, low-cost transactions.
